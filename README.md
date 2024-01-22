@@ -13,6 +13,13 @@ Projeto criado para verificar a temperatura ou clima das cidades no brasil. Para
  https://www.weatherapi.com/
 ```
 
+- ## Deploy
+
+```
+https://rayane-araujo.github.io/app-previsao-tempo/
+```
+
+
 - ## 💻 Como contribuir
 ##### Quer sugerir alguma melhoria/nova funcionalidade? segue o passo a passo:
 
